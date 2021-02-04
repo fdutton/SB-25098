@@ -1,0 +1,7 @@
+server:
+  forward-headers-strategy: framework
+  port: 11000
+
+spring:
+  application:
+    name: my-application
